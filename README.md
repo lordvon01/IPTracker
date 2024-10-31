@@ -28,4 +28,4 @@ Once the container is built run the following command to bring up the container.
 
 sudo docker run -d -p 5000:5000 --name iptracker --env-file smtpsettings.env iptracker
 
-This should start the container and you can browse to http://<IPADDRESS>:5000 and access the web page.
+This should start the container and you can browse to http://IPADDRESS:5000 and access the web page.
