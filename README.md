@@ -11,4 +11,7 @@ Under "iptracker" folder create a folder called "app"
 
 Copy all the files into the root of "iptracker" folder
 change into the "app" folder and create a new directory called "templates"
-Copy the 2 .py files
+Copy the 2 .py files into the "app" directory
+![image](https://github.com/user-attachments/assets/8a1f3971-ee26-4805-a277-d79d153e65d4)
+
+
