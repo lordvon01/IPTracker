@@ -20,6 +20,8 @@ Copy the index.html into the templates folder
 Edit the .env file if email notifications needs to be enabled.
 ![image](https://github.com/user-attachments/assets/81b3d579-4ed8-4f88-8c81-0c546636ab3b)
 
+NOTE: If gmail will be used, I highly recommend using "App Passwords" from Google.
+
 Once all the files are staged run the the following commands.
 
 sudo docker build -t iptracker .
